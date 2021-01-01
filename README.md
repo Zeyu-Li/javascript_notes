@@ -33,7 +33,7 @@ Some notes on JavaScript, the language of the web!
 3. Updates screen only if it decides so
 4. Then decide if event loop should be execute
 5. If so, execute event loop
-   * therefor if there is a `while (true)` loop, it will get stuck because the eventLoop() does not end
+   * therefore if there is a `while (true)` loop, it will get stuck because the eventLoop() does not end
 
 See this [YouTube](https://www.youtube.com/watch?v=cCOL7MC4Pl0&ab_channel=JSConf) video for a very indepth explanation
 
@@ -42,6 +42,7 @@ See this [YouTube](https://www.youtube.com/watch?v=cCOL7MC4Pl0&ab_channel=JSConf
 * arrays can contain multiple types with python
 * objects are like dictionaries in python, ie. they are a hash table/map that maps from a string to an object 
 * arrow functions are shorthand functions that very similar to regular functions with a few minor changes
+* async/await - once an async function encounters a await, it will be added to the event loop and continue executing 
 
 ## Uses
 
@@ -56,7 +57,7 @@ Some of the most popular packages include:
 * Express - a backend framework 
 * Electron - a desktop app creation tool (not very space efficient)
 * Socket.IO - library for developing with sockets (things that need to updated in real time)
-* much much more...
+* \+ much much more...
 
 ## TypeScript
 
