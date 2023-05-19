@@ -46,14 +46,14 @@ See this [YouTube](https://www.youtube.com/watch?v=cCOL7MC4Pl0&ab_channel=JSConf
 
 ## Uses
 
-js runs on the browser but can also run outside the browser with node.js. Node.js has a package manager called the node package manager or **npm** for short. With npm, there are a ton of packages that are quite powerful and different. For example, Electron.js is a desktop app creation tool that utilizes chromium at it's core.
+js runs on the browser but can also run outside the browser with node.js. Node.js has a package manager called the node package manager or **npm** for short. With npm, there are a ton of packages that are quite powerful and different. For example, Electron.js is a desktop app creation tool that utilizes chromium at its core.
 
 ### Popular Packages
 
 Some of the most popular packages include:
 
 * React - front end library that was developed by Facebook
-* React Native - Based on react but works on Android and iOS, it is very fast as it transcodes into it's native language, ie Java for Android and Swift for iOS
+* React Native - Based on react but works on Android and iOS, it is very fast as it transcodes into its native language, ie Java for Android and Swift for iOS
 * Express - a backend framework 
 * Electron - a desktop app creation tool (not very space efficient)
 * Socket.IO - library for developing with sockets (things that need to updated in real time)
